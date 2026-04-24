@@ -2,7 +2,7 @@
 # PROCESS
 
 ## How long this took
-This took me approximately 1 hours and 40 minutes in total, including project setup, implementation, testing, UI refinement, and checking the SDLT rules against HMRC guidance.
+This took me approximately 1 hours and 44 minutes in total, including project setup, implementation, testing, UI refinement, email message send for submission and checking the SDLT rules against HMRC guidance.
 
 ## How I used AI tooling
 I used AI tooling to speed up implementation, mainly for:
