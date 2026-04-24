@@ -1,11 +1,4 @@
 
-HMRC’s current residential rates, first-time buyer relief, and higher-rate rules support those example outputs.
-
-## 3. `PROCESS.md`
-
-Keep it short and honest. Use this:
-
-```md
 # PROCESS
 
 ## How long this took
